@@ -9,7 +9,7 @@
 
 _а так тоже_
 
-'''sql
+```sql
 select *
 from temp_table
-'''
+```
